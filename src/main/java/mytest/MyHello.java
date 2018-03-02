@@ -6,5 +6,6 @@ public class MyHello {
 	String q;
 	String a;
 	String t;
+	String g;
 
 }
