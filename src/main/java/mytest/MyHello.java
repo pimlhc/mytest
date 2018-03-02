@@ -7,5 +7,6 @@ public class MyHello {
 	String a;
 	String t;
 	String g;
+	String o;
 
 }
